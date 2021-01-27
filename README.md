@@ -11,15 +11,11 @@
 
 - 💬 Ask me about **Algorithms.**
 
-- 📫 How to reach me **priyankrastogi14@gmail.com**
+- 📫 Reach me at **priyankrastogi14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyankcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyankcoder" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/priyank010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyank010" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/priyankrastogi14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="priyankrastogi14" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/priyank010" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="priyank010" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/priyankrastogi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="priyankrastogi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
