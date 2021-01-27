@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Priyank Rastogi</h1>
-<h3 align="center">A passionate developer and programmer from India</h3>
+<h3 align="center">A passionate developer and programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankcoder&label=Profile%20views&color=0e75b6&style=flat" alt="priyankcoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankcoder" alt="priyankcoder" /></a> </p>
-
 - 🌱 I’m currently learning **about OS and DBMS.**
 
-- 👨‍💻 All of my projects are available at [http://priyankcoder.github.io](http://priyankcoder.github.io)
+- 👨‍💻 Personal Portfolio Website [http://priyankcoder.github.io](http://priyankcoder.github.io)
 
 - 📝 I write articles on GFG, More articles on their way ;) [https://www.geeksforgeeks.org/how-to-create-a-mixin-for-placeholder-in-sass/](https://www.geeksforgeeks.org/how-to-create-a-mixin-for-placeholder-in-sass/)
 
-- 💬 Ask me about **Algorithms, React,**
+- 💬 Ask me about **Algorithms.**
 
 - 📫 How to reach me **priyankrastogi14@gmail.com**
 
