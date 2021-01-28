@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **priyankrastogi14@gmail.com**
 
-- ⚡ Fun fact **I talks a lot when I am comfortable with people.**
+- ⚡ Fun fact **I talk a lot when I am comfortable with people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
