@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankcoder&label=Profile%20views&color=0e75b6&style=flat" alt="priyankcoder" /> </p>
 
-- 🌱 I’m currently learning **about OS and DBMS.**
+- 🌱 I’m currently learning **about opensource**
 
-- 👯 I’m looking to collaborate with **CPers and Developers.**
+- 👯 I’m looking to collaborate with **web developers and opensource contributors.**
 
 - 👨‍💻 Personal Portfolio Website [http://priyankcoder.github.io](http://priyankcoder.github.io)
 
@@ -13,7 +13,6 @@
 
 - 📫 Reach me at **priyankrastogi14@gmail.com**
 
-- ⚡ Fun fact **I talk a lot when I am comfortable with people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
