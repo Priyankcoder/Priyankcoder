@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankcoder&label=Profile%20views&color=0e75b6&style=flat" alt="priyankcoder" /> </p>
 
-- 🌱 I’m currently learning **about opensource**
+- 🌱 I’m an UI developer at Navi Technologies and currently learning **about opensource**
 
-- 👯 I’m looking to collaborate with **web developers and opensource contributors.**
+- 👯 I’m looking to collaborate with **web developers and opensource contributors**
 
 - 👨‍💻 Personal Portfolio Website [http://priyankcoder.github.io](http://priyankcoder.github.io)
 
