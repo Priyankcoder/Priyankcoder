@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankcoder&label=Profile%20views&color=0e75b6&style=flat" alt="priyankcoder" /> </p>
 
-- 🌱 I’m an UI developer at Navi Technologies and currently learning **about opensource**
+- 🌱 I’m a frontend developer at Zomato and currently learning **about opensource**
 
 - 👯 I’m looking to collaborate with **web developers and opensource contributors**
 
